@@ -1,0 +1,1 @@
+"use strict";function _classCallCheck(s,a){if(!(s instanceof a))throw new TypeError("Cannot call a class as a function")}var SalesPeriodsObject=function s(a,t){_classCallCheck(this,s),this.sale=a,this.date=t};
